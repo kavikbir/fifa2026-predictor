@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Testing / coverage
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nosetests/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific security / keys
+*.pem
+*.key
+
+# Data / Machine Learning Artifacts
+*.pkl
+*.parquet
+*.csv
+data/raw/
+ml/data/
+temp/
+
+# Frontend builds (if any)
+node_modules/
+.next/
+dist/
+out/
